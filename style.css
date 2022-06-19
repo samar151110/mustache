@@ -1,0 +1,25 @@
+body{
+    background-color: green;
+}
+
+.btn-success{
+    font-size: 30px;
+    border-radius: 30px;
+    height: 60px;
+    width: 300px;
+}
+
+.btn-warning:hover{
+    background-color: blue;
+    font-size: 20px;
+}
+.btn-warning{
+    border-radius: 30px;
+    font-size: 15px;
+}
+
+canvas{
+    border-radius: 30px;
+    border-style: dashed;
+}
+
